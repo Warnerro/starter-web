@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 sum txt
 sum more txt
 3
+
+### Copyright
+andrzeu
