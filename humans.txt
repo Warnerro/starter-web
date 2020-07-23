@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    andrzeu andrzeukrul@tak.pl
 
 # THANKS
 
