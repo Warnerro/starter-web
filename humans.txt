@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    alcohol
 
 # TECHNOLOGY COLOPHON
 
