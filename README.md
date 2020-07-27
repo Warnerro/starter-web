@@ -17,4 +17,4 @@ sum more txt
 tak
 
 ### Copyright
-andrzeu
+andrzeu yep
